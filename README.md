@@ -10,7 +10,7 @@
 ---
 
 This repo is there for students to report issues, typos or anything else regarding the subjects or evaluation sheets.
-With this repo students themselves can report issues as they are the ones that read the subjects most of the time. It also gives them the oppertunity to have a voice in the quality of the education.
+With this repo students themselves can report issues as they are the ones that read the subjects most of the time. It also gives them the opportunity to have a voice in the quality of the education.
 
 ---
 
