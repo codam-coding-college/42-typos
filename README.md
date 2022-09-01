@@ -32,7 +32,7 @@ A: If you happen to stumble on an eronious typo or something that just doesn't m
 
 Q: **_"I have a question rather than an issue?"_**
 
-A: Then ask you peers instead, this just for actual issues that can be seen on either the PDFs or Evaluation sheets.
+A: Then ask your peers instead, this is just for actual issues that can be seen on either the PDFs or Evaluation sheets.
 
 Q: **_"What constitues as an issue?"_**
 
